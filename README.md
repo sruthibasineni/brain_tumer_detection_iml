@@ -1,1 +1,1 @@
-# brain_tumer_detection_iml
+# brain_tumor_detection_iml
